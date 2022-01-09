@@ -1,0 +1,19 @@
+.odd-numbered {
+  background-color: rgb(255, 158, 158);
+  font-family: Verdana, sans-serif;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#even-numbered1 {
+  color: #0a0aff;
+  font-size: 36px;
+}
+
+#even-numbered2 {
+  background-color: rgb(144, 255, 144);
+  font-size: 24px;
+  font-weight: bold;
+}
